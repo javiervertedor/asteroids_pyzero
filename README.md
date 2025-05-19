@@ -2,8 +2,6 @@
 
 A classic-style Asteroids arcade shooter built with **Python**, **PyGame Zero**, and custom helper utilities. Battle waves of meteors, collect power-ups, and survive as long as possible!
 
-![screenshot-placeholder](https://via.placeholder.com/800x600.png?text=Gameplay+Screenshot)
-
 ---
 
 ## 🎮 Features
